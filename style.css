@@ -16,4 +16,5 @@ h1 {
 button {
 	border-radius: 18px;
 	height: 2em;
+	background-color: rgba(9, 138, 174, 0.9);
 }
